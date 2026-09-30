@@ -1,0 +1,86 @@
+01:33:02 ----------------------------------------------------------------------------------------------------
+01:33:02 [CheckSystemInformation] ClientVersion: 1.7.0, SystemVersion: 6.2.9200, MemoryUsage: 10103/16267mb
+01:33:02 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MUZoom
+01:33:03 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: 5CDF67F3, HackVersion: 1.7.0, HardwareId: 089DB32A-A5AAF0B3-C7628F7D-BA12E8D5
+01:33:03 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 3, MacroProtect: 1 - 6, MemoryAddress: E611B2 - E61F68 - E61F70 - 8793718 - 8128AC8 - E8C578 - 9D0040 - 9CFC26
+01:33:03 [HCDumpListRecv] Count: 113, MaxCount: 1965
+01:33:03 [HCDumpListRecv] Count: 113, MaxCount: 1965
+01:33:03 [HCDumpListRecv] Count: 113, MaxCount: 1965
+01:33:03 [HCDumpListRecv] Count: 113, MaxCount: 1965
+01:33:03 [HCDumpListRecv] Count: 113, MaxCount: 1965
+01:33:03 [HCDumpListRecv] Count: 113, MaxCount: 1965
+01:33:03 [HCDumpListRecv] Count: 113, MaxCount: 1965
+01:33:03 [HCDumpListRecv] Count: 113, MaxCount: 1965
+01:33:03 [HCDumpListRecv] Count: 113, MaxCount: 1965
+01:33:03 [HCDumpListRecv] Count: 113, MaxCount: 1965
+01:33:03 [HCDumpListRecv] Count: 113, MaxCount: 1965
+01:33:03 [HCDumpListRecv] Count: 113, MaxCount: 1965
+01:33:03 [HCDumpListRecv] Count: 113, MaxCount: 1965
+01:33:03 [HCDumpListRecv] Count: 113, MaxCount: 1965
+01:33:03 [HCDumpListRecv] Count: 113, MaxCount: 1965
+01:33:03 [HCDumpListRecv] Count: 113, MaxCount: 1965
+01:33:03 [HCDumpListRecv] Count: 113, MaxCount: 1965
+01:33:03 [HCDumpListRecv] Count: 44, MaxCount: 1965
+01:33:03 [HCChecksumListRecv] Count: 0, MaxCount: 0
+01:33:03 [HCInternalListRecv] Count: 15, MaxCount: 15
+01:33:03 [HCWindowListRecv] Count: 0, MaxCount: 0
+01:33:03 [EntryProc] DumpListMaxCount: 1965, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 0
+01:33:05 [EntryProc] Initialization successful
+01:34:29 [SplashScreen] SplashType: 2, TextSwitch: 1, DisplayText: Protection was completed incorrectly
+03:05:18 ----------------------------------------------------------------------------------------------------
+03:05:18 [CheckSystemInformation] ClientVersion: 1.7.0, SystemVersion: 6.2.9200, MemoryUsage: 7516/16267mb
+03:05:18 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MUZoom
+03:05:18 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: 5CDF67F3, HackVersion: 1.7.0, HardwareId: 089DB32A-A5AAF0B3-C7628F7D-BA12E8D5
+03:05:18 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 3, MacroProtect: 1 - 6, MemoryAddress: E611B2 - E61F68 - E61F70 - 8793718 - 8128AC8 - E8C578 - 9D0040 - 9CFC26
+03:05:18 [HCDumpListRecv] Count: 113, MaxCount: 1965
+03:05:18 [HCDumpListRecv] Count: 113, MaxCount: 1965
+03:05:18 [HCDumpListRecv] Count: 113, MaxCount: 1965
+03:05:18 [HCDumpListRecv] Count: 113, MaxCount: 1965
+03:05:18 [HCDumpListRecv] Count: 113, MaxCount: 1965
+03:05:18 [HCDumpListRecv] Count: 113, MaxCount: 1965
+03:05:18 [HCDumpListRecv] Count: 113, MaxCount: 1965
+03:05:18 [HCDumpListRecv] Count: 113, MaxCount: 1965
+03:05:18 [HCDumpListRecv] Count: 113, MaxCount: 1965
+03:05:18 [HCDumpListRecv] Count: 113, MaxCount: 1965
+03:05:18 [HCDumpListRecv] Count: 113, MaxCount: 1965
+03:05:18 [HCDumpListRecv] Count: 113, MaxCount: 1965
+03:05:18 [HCDumpListRecv] Count: 113, MaxCount: 1965
+03:05:18 [HCDumpListRecv] Count: 113, MaxCount: 1965
+03:05:18 [HCDumpListRecv] Count: 113, MaxCount: 1965
+03:05:18 [HCDumpListRecv] Count: 113, MaxCount: 1965
+03:05:18 [HCDumpListRecv] Count: 113, MaxCount: 1965
+03:05:18 [HCDumpListRecv] Count: 44, MaxCount: 1965
+03:05:18 [HCChecksumListRecv] Count: 0, MaxCount: 0
+03:05:18 [HCInternalListRecv] Count: 15, MaxCount: 15
+03:05:18 [HCWindowListRecv] Count: 0, MaxCount: 0
+03:05:19 [EntryProc] DumpListMaxCount: 1965, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 0
+03:05:21 [EntryProc] Initialization successful
+21:21:24 ----------------------------------------------------------------------------------------------------
+21:21:24 [CheckSystemInformation] ClientVersion: 1.7.0, SystemVersion: 6.2.9200, MemoryUsage: 5422/16267mb
+21:21:24 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MUZoom
+21:21:24 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: 5CDF67F3, HackVersion: 1.7.0, HardwareId: 089DB32A-A5AAF0B3-C7628F7D-BA12E8D5
+21:21:24 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 3, MacroProtect: 1 - 6, MemoryAddress: E611B2 - E61F68 - E61F70 - 8793718 - 8128AC8 - E8C578 - 9D0040 - 9CFC26
+21:21:24 [HCDumpListRecv] Count: 113, MaxCount: 1965
+21:21:24 [HCDumpListRecv] Count: 113, MaxCount: 1965
+21:21:24 [HCDumpListRecv] Count: 113, MaxCount: 1965
+21:21:24 [HCDumpListRecv] Count: 113, MaxCount: 1965
+21:21:24 [HCDumpListRecv] Count: 113, MaxCount: 1965
+21:21:24 [HCDumpListRecv] Count: 113, MaxCount: 1965
+21:21:24 [HCDumpListRecv] Count: 113, MaxCount: 1965
+21:21:24 [HCDumpListRecv] Count: 113, MaxCount: 1965
+21:21:24 [HCDumpListRecv] Count: 113, MaxCount: 1965
+21:21:24 [HCDumpListRecv] Count: 113, MaxCount: 1965
+21:21:24 [HCDumpListRecv] Count: 113, MaxCount: 1965
+21:21:24 [HCDumpListRecv] Count: 113, MaxCount: 1965
+21:21:24 [HCDumpListRecv] Count: 113, MaxCount: 1965
+21:21:24 [HCDumpListRecv] Count: 113, MaxCount: 1965
+21:21:24 [HCDumpListRecv] Count: 113, MaxCount: 1965
+21:21:24 [HCDumpListRecv] Count: 113, MaxCount: 1965
+21:21:24 [HCDumpListRecv] Count: 113, MaxCount: 1965
+21:21:24 [HCDumpListRecv] Count: 44, MaxCount: 1965
+21:21:24 [HCChecksumListRecv] Count: 0, MaxCount: 0
+21:21:24 [HCInternalListRecv] Count: 15, MaxCount: 15
+21:21:24 [HCWindowListRecv] Count: 0, MaxCount: 0
+21:21:24 [EntryProc] DumpListMaxCount: 1965, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 0
+21:21:26 [EntryProc] Initialization successful
+21:21:42 [SplashScreen] SplashType: 2, TextSwitch: 1, DisplayText: Protection was completed incorrectly
