@@ -48576,18 +48576,6 @@
     "modified": "2026-09-24T06:11:12.000Z"
   },
   {
-    "path": "tmp-attr-check",
-    "size": 126,
-    "hash": "e025993fa78c53c53281026d0bb87edf",
-    "modified": "2026-09-30T16:32:38.909Z"
-  },
-  {
-    "path": "tmp-dll-check",
-    "size": 132,
-    "hash": "9f671f36e720e376014988dd179a7035",
-    "modified": "2026-09-30T16:32:38.339Z"
-  },
-  {
     "path": "unins000.dat",
     "size": 978511,
     "hash": "6b86ce87879c6538b61077fb8010e59f",
@@ -48601,9 +48589,9 @@
   },
   {
     "path": "update.json",
-    "size": 1349710,
-    "hash": "cd5fbb2bba77da82accd7b5f87ce8eff",
-    "modified": "2026-09-30T15:55:41.721Z"
+    "size": 1349846,
+    "hash": "5ea68caa24138ecea04f509509514fad",
+    "modified": "2026-09-30T16:36:17.616Z"
   },
   {
     "path": "v8_context_snapshot.bin",
